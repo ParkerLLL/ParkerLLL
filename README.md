@@ -1,9 +1,11 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Peng Li</h1>
+ <p align="center"><br/>
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-### This is Peng Li!
-### You can call me 'Parker'
+<h3 align="center">A Front-end developer from China (JiangXi)</h3>
+<h3 align="center">Master in Computer Science (2022-2023)</h3> 
+<h3 align="center">Bachelor in Internet of Thing Engineering (2018-2022)</h3>  
+  
 
-Welcome to my Github page! I am Peng and I am currently finishing my Computer Science Master degree at the university of Nottingham!  
 <!--
 **ParkerLLL/ParkerLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
