@@ -1,5 +1,9 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+### This is Peng Li!
+### You can call me 'Parker'
+
+Welcome to my Github page! I am Peng and I am currently finishing my Computer Science Master degree at the university of Nottingham!  
 <!--
 **ParkerLLL/ParkerLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
