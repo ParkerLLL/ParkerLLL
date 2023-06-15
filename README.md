@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <!--
 **ParkerLLL/ParkerLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
