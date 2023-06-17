@@ -17,6 +17,9 @@
 <code><img height="20" src="https://s2.loli.net/2023/06/17/E1wCc8NKABhegOU.png" alt="TypeScript" title="TypeScript"></code>
 <code><img height="20" src="https://s2.loli.net/2023/06/17/ZGxXuABJWF62l3v.png" alt="C#" title="C#"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://s2.loli.net/2023/06/17/LhyIzUn9OCfWxj7.png" alt="HTML5" title="HTML5"></code>
+<code><img height="20" src="https://s2.loli.net/2023/06/17/vd9aG5n8oHPWt4K.png" alt="CSS" title="CSS"></code>
+<!-- <code><img height="20" src="" alt="" title=""></code>  -->
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
