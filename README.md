@@ -8,6 +8,9 @@
 
 <h2></h2>
 
+<img align="right" alt="GIF" src="code.gif" width="343" height="220" title="Trust Yourself!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+
 **Languages and Frameworks**
 
 <code><img height="20" src="https://s2.loli.net/2023/06/17/VMIq1wrcBblCyUn.png" alt="JavaScript" title="JavaScript"></code>
