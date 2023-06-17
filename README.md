@@ -1,8 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Peng Li</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Peng Li</h1> -->
 
-<h3 align="center">A Front-end developer 🇨🇳</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Peng Li, a Front-end developer from 🇨🇳 <b>PingXiang, China</b>, currently living in 🇬🇧 <b>Nottingham, United Kingdom</b>. </p>
+
+<p>
+
+<!-- <h3 align="center">A Front-end developer 🇨🇳</h3>
 <h3 align="center">Master in Computer Science (2022-2023)</h3> 
-<h3 align="center">Bachelor in Internet of Thing Engineering (2018-2022)</h3>  
+<h3 align="center">Bachelor in Internet of Thing Engineering (2018-2022)</h3>   -->
   
 
 
